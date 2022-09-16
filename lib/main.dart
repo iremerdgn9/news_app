@@ -224,7 +224,7 @@ class _MyStatefulWidgetState extends State<MyStatefulWidget> {
                     FavoriteButton(
                       isFavorite: false,
                       valueChanged: (_isFavorite) {
-                        print('Is favorite: $_isFavorite');
+                        print('Isfhf favorite: $_isFavorite');
                       },
                     ),
                     Image.network(articles[index].urlToImage.toString()),
