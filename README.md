@@ -1,5 +1,4 @@
 # news_app
-
 Flutter ve Dart dili kullanarak News App Projesi geliştiriyorum.
 
 ![](https://i.hizliresim.com/hzk75cj.png)
