@@ -3,6 +3,7 @@ Flutter ve Dart dili kullanarak News App Projesi geliştiriyorum.
 
 ![](https://i.hizliresim.com/hzk75cj.png)
 
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
