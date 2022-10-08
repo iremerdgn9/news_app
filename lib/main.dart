@@ -111,6 +111,7 @@ class _MyStatefulWidgetState extends State<MyStatefulWidget> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
+        backgroundColor: Colors.pink,
         title: Text(widget.title),
         centerTitle: true,
         actions: <Widget>[
@@ -386,7 +387,7 @@ class  FavPage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Favorite Icon '),
+        title: const Text('Favorite Icon'),
       ),
       body: SizedBox(
       width: MediaQuery.of(context).size.width,
