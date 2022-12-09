@@ -1,5 +1,5 @@
 # news_app
-Flutter ve Dart dili kullanarak News App Projesi geliştiriyorum.
+Android Studio'da Flutter SDK kullanarak Dart programlama dili ile News App Projesi geliştirdim.
 
 ![](https://i.hizliresim.com/hzk75cj.png)
 
